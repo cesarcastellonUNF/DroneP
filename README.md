@@ -20,3 +20,5 @@ $ python3 run_app.py
 
 3. 
 python Drone.py USER PASS 
+
+Demo video can be found at : https://youtu.be/SBsHpLAMEzw
